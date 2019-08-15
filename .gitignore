@@ -1,0 +1,5 @@
+datasets
+raw_data
+models
+*.pyc
+.idea
